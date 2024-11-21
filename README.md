@@ -1,2 +1,2 @@
 # matheus-felix-batista
-Primeiro repositório, ALUNO SESI CABO.
+Primeiro repositório do aluno SESI CABO.
